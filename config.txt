@@ -1,0 +1,5 @@
+
+PROJECT_NAME=WiseReminder
+WiseReminder_VERSION_MAJOR=1
+WiseReminder_VERSION_MINOR=3
+WiseReminder_VERSION_PATCH=7
